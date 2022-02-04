@@ -1,7 +1,7 @@
-class SD_practice1 {
-  public int adding(int, int) {
+public class SD_practice1 {
+  public static int adding(int a, int b) {
     int toReturn;
-    toReturn = int + int + 1;
+    toReturn = a + b;
     return toReturn;
   }
 }
